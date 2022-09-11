@@ -5,14 +5,15 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: 0
  */
 
 int main(void)
 {
-	char ch;
-	for (ch = 'a'; ch <= 'z'; ch++)
-		putcher(ch);
-	putcher('\n');
+	char low;
+
+	for (low = 'a'; low <= 'z'; low++)
+		putchar(low);
+	putchar('\n');
 	return (0);
 }
