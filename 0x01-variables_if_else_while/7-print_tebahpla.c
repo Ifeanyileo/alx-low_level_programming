@@ -3,12 +3,13 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Desscription: using the main function
+ * this program prints "programming is positive, zero or negative"
+ * Return: 0
  */
-
 int main(void)
 {
-	char v;
+	char c;
 
 	for (c = 'z'; c >= 'a'; c--)
 	{
