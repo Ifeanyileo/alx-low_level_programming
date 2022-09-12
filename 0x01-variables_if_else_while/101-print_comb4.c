@@ -14,7 +14,6 @@ int main(void)
 	int b;
 	int d;
 	int f;
-	
 	while (c <= 999)
 	{
 		b = (c / 100 + '0');
@@ -25,7 +24,6 @@ int main(void)
 			putchar(b);
 			putchar(d);
 			putchar(f);
-
 			if (c != 789)
 			{
 				putchar(',');
