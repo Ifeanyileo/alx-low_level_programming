@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * print_rev _ Prints a strain in reverse order
+ * print_rev - Prints a strain in reverse order
  * @s: String to reverse 
  * Return: Nothing
  */
