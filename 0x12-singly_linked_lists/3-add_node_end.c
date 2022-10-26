@@ -1,4 +1,4 @@
-#include "lists.h
+#include "lists.h"
 
 /**
  * slen - Calculates the length of a string.
