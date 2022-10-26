@@ -17,3 +17,7 @@ Write a function that adds a new node at the end of a listint_t list.
     Return: the address of the new element, or NULL if it failed
 3. Write a function that frees a listint_t list
 4. Write a function that frees a listint_t list
+5. Write a function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).
+
+    Prototype: int pop_listint(listint_t **head);
+    if the linked list is empty return 0
